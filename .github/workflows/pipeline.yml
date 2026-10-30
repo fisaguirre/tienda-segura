@@ -13,7 +13,7 @@ permissions:
   # Escritura en pull requests (Gitleaks la usa para comentar hallazgos en la PR).
   pull-requests: write
 
-# Lista de trabajos (jobs) que ejecuta el workflow.
+# Lista de trabajos (jobs) que ejecuta el workflow
 jobs:
 
   # Único job: verifica el código antes de permitir la fusión.
